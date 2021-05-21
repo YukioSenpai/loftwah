@@ -35,10 +35,10 @@ class Dean():
 ```
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=loftwah&theme=tokyonight&show_icons=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=loftwah&theme=tokyonight&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=YukioSenpai&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=loftwah&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loftwah&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioSenpai&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioSenpai&theme=tokyonight" />
 </a>
 </div>
